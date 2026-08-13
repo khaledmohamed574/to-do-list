@@ -1,6 +1,6 @@
 {
   "name": "Bilingual To-Do List App",
-  "description": "A modern, bilingual (English/Arabic) To-Do List application featuring task priorities, sorting, and overdue status checks, paired with an integrated Python Tkinter code generator.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "description": "A modern, bilingual (English/Arabic) To-Do List application featuring task priorities, sorting, and overdue status checks",
+  "requestFramePermissions": []
+  
 }
